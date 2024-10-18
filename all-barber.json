@@ -1,0 +1,56 @@
+{
+    "status": true,
+    "tanggal hari ini": "2024-10-18",
+    "KapsterData": [
+        {
+            "name": "Kapster 1",
+            "cabang": "Cabang A",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfcOyaRqf0O9k2GFUSILHEuTPBN4s7Vy5iQ31j"
+        },
+        {
+            "name": "Kapster 2",
+            "cabang": "Cabang B",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfLIbg06myDybFHUWVR75zXLlCpY6gidu98cwK"
+        },
+        {
+            "name": "Kapster 3",
+            "cabang": "Cabang C",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfvZJdpPH9beqjHU5g1sTwyidpRFPhNzS8lr73"
+        },
+        {
+            "name": "Kapster 4",
+            "cabang": "Cabang D",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfvZJdpPH9beqjHU5g1sTwyidpRFPhNzS8lr73"
+        },
+        {
+            "name": "Kapster 5",
+            "cabang": "Cabang E",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfvZJdpPH9beqjHU5g1sTwyidpRFPhNzS8lr73"
+        },
+        {
+            "name": "Kapster 6",
+            "cabang": "Cabang F",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfLIbg06myDybFHUWVR75zXLlCpY6gidu98cwK"
+        },
+        {
+            "name": "Kapster 7",
+            "cabang": "Cabang G",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfvZJdpPH9beqjHU5g1sTwyidpRFPhNzS8lr73"
+        },
+        {
+            "name": "Kapster 8",
+            "cabang": "Cabang H",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfvZJdpPH9beqjHU5g1sTwyidpRFPhNzS8lr73"
+        },
+        {
+            "name": "Kapster 9",
+            "cabang": "Cabang I",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfvZJdpPH9beqjHU5g1sTwyidpRFPhNzS8lr73"
+        },
+        {
+            "name": "Kapster 10",
+            "cabang": "Cabang J",
+            "image_url": "https://utfs.io/f/OJuEhtBCdzyfvZJdpPH9beqjHU5g1sTwyidpRFPhNzS8lr73"
+        }
+    ]
+}
