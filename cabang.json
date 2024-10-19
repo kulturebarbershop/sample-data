@@ -6,13 +6,15 @@
       "nama": "Cabang Sukajadi",
       "alamat": "Jl. Nangka No.1, Sukajadi, Kec. Dumai Kota, Kota Dumai, Riau 28826",
       "tautan_whatsapp": "https://wa.me/<masukkan_nomor_whatsapp>",
-      "tautan_google_maps": "https://maps.google.com/?q=Jl.+Nangka+No.1,+Sukajadi,+Kec.+Dumai+Kota,+Kota+Dumai,+Riau+28826"
+      "tautan_google_maps": "https://maps.google.com/?q=Jl.+Nangka+No.1,+Sukajadi,+Kec.+Dumai+Kota,+Kota+Dumai,+Riau+28826",
+      "urlImageCabang": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ddd92f43178757.57e5f8854a05d.jpg"
     },
     {
       "nama": "Cabang Janur Kuning",
       "alamat": "Jl. Jaya Mukti, Kec. Dumai Tim, Kota Dumai, Riau 28826",
       "tautan_whatsapp": "https://wa.me/<masukkan_nomor_whatsapp>",
-      "tautan_google_maps": "https://maps.google.com/?q=Jl.+Jaya+Mukti,+Kec.+Dumai+Tim,+Kota+Dumai,+Riau+28826"
+      "tautan_google_maps": "https://maps.google.com/?q=Jl.+Jaya+Mukti,+Kec.+Dumai+Tim,+Kota+Dumai,+Riau+28826",
+      "urlImageCabang": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6c755743178757.57e5f8854bf83.jpg"
     }
   ]
 }
